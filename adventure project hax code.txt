@@ -1,0 +1,7 @@
+#20e2d7
+#333333
+shift + window + c for color picker
+
+https://imagecolorpicker.com/
+https://coolors.co/
+icons8.com
